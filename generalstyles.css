@@ -1,0 +1,14 @@
+*{
+    color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+}
+#h1styles{
+    color: black;
+    font-family: cambria;
+    text-align: center;
+}
+
+.pstyles{
+    background-color: white;
+}
